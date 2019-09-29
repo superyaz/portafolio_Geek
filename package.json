@@ -16,17 +16,17 @@
     ],
     "homepage": "https://startbootstrap.com/template-overviews/agency",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/superyaz/portafolio_Geek",
+        "email": "yacamo04@hotmail.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "@superyaz yacamo04@hotmail.com"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/superyaz/portafolio_Geek"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
