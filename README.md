@@ -3,7 +3,7 @@
 Este es el portafolio descriptivo de los proyectos que he hecho hasta el momento, como se observa, no cuenta con mucha experiencia pero si con unas ganas infinitas de continuar con mi aprendizaje y continuar creciendo en el mundo del desarrollo.
 
 
-## Para observar dicho portafolio, por favor visita el siguiente link https://portafolioyazincastano.netlify.com
+## Para observar dicho portafolio, por favor ingresa a el siguiente link https://portafolioyazincastano.netlify.com
 
 ## Inicio 
 
